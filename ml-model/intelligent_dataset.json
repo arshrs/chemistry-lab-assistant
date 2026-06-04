@@ -1,0 +1,569 @@
+[
+  {
+    "type": "definition",
+    "topic": "beaker",
+    "content": "Beaker is a glass container used to hold, mix, and heat liquids."
+  },
+  {
+    "type": "definition",
+    "topic": "burette",
+    "content": "Burette is a graduated glass tube used to measure volume of liquid accurately in titration."
+  },
+  {
+    "type": "definition",
+    "topic": "pipette",
+    "content": "Pipette is used to transfer a fixed and accurate volume of liquid."
+  },
+  {
+    "type": "definition",
+    "topic": "conical flask",
+    "content": "Conical flask is used to hold solution during titration and allows proper mixing."
+  },
+  {
+    "type": "definition",
+    "topic": "volumetric flask",
+    "content": "Volumetric flask is used to prepare standard solutions of accurate volume."
+  },
+  {
+    "type": "definition",
+    "topic": "ph",
+    "content": "pH measures the acidity or basicity of a solution on a scale of 0 to 14."
+  },
+  {
+    "type": "definition",
+    "topic": "molarity",
+    "content": "Molarity is the number of moles of solute per liter of solution."
+  },
+  {
+    "type": "definition",
+    "topic": "normality",
+    "content": "Normality is the number of gram equivalents per liter of solution."
+  },
+  {
+    "type": "definition",
+    "topic": "oxidation",
+    "content": "Oxidation is the loss of electrons."
+  },
+  {
+    "type": "definition",
+    "topic": "reduction",
+    "content": "Reduction is the gain of electrons."
+  },
+  {
+    "type": "definition",
+    "topic": "neutralization",
+    "content": "Neutralization is a reaction between acid and base forming salt and water."
+  },
+  {
+    "type": "experiment",
+    "topic": "acid base titration",
+    "aim": "To determine the concentration of unknown acid using standard base.",
+    "apparatus": "Burette, pipette, conical flask, stand, funnel, indicator.",
+    "theory": "It is based on neutralization reaction between acid and base.",
+    "procedure": [
+      "Rinse burette with base solution",
+      "Fill burette with base",
+      "Pipette acid into conical flask",
+      "Add few drops of indicator",
+      "Titrate slowly while stirring",
+      "Observe color change at endpoint",
+      "Record final reading"
+    ],
+    "precautions": [
+      "Remove air bubbles from burette",
+      "Read burette at eye level",
+      "Do not overshoot endpoint",
+      "Use clean apparatus"
+    ],
+    "result": "Unknown concentration of acid is calculated using titration formula."
+  },
+  {
+    "type": "experiment",
+    "topic": "flame test",
+    "aim": "To identify metal ions based on characteristic flame color.",
+    "apparatus": "Wire loop, burner, salt sample.",
+    "theory": "Metal ions emit characteristic colors when heated in flame.",
+    "procedure": [
+      "Clean wire loop with acid",
+      "Dip loop into salt sample",
+      "Place loop in flame",
+      "Observe flame color",
+      "Identify metal ion based on color"
+    ],
+    "precautions": [
+      "Ensure wire loop is clean",
+      "Do not touch hot wire",
+      "Avoid contamination"
+    ],
+    "result": "Metal ion is identified based on flame color."
+  },
+  {
+    "type": "experiment",
+    "topic": "salt analysis",
+    "aim": "To identify cation and anion present in unknown salt.",
+    "apparatus": "Test tubes, reagents, burner, wire loop.",
+    "theory": "Different ions show specific reactions with reagents.",
+    "procedure": [
+      "Perform preliminary test",
+      "Conduct dry test",
+      "Perform wet test",
+      "Observe reactions carefully",
+      "Identify cation and anion"
+    ],
+    "precautions": [
+      "Use fresh reagents",
+      "Record observations properly",
+      "Avoid contamination"
+    ],
+    "result": "Unknown salt is identified."
+  },
+  {
+    "type": "experiment",
+    "topic": "crystallization",
+    "aim": "To purify impure solid by forming pure crystals.",
+    "apparatus": "Beaker, burner, filter paper, funnel.",
+    "theory": "Impurities remain dissolved while pure crystals form on cooling.",
+    "procedure": [
+      "Dissolve impure solid in hot solvent",
+      "Filter the solution",
+      "Allow solution to cool slowly",
+      "Crystals will form",
+      "Collect and dry crystals"
+    ],
+    "precautions": [
+      "Do not disturb while cooling",
+      "Use minimum solvent",
+      "Avoid rapid cooling"
+    ],
+    "result": "Pure crystals are obtained."
+  },
+  {
+    "type": "experiment",
+    "topic": "distillation",
+    "aim": "To purify liquid based on difference in boiling points.",
+    "apparatus": "Distillation flask, condenser, burner, thermometer.",
+    "theory": "Liquid with lower boiling point vaporizes first and condenses.",
+    "procedure": [
+      "Heat liquid mixture",
+      "Vapor forms",
+      "Vapor passes through condenser",
+      "Condensed liquid is collected"
+    ],
+    "precautions": [
+      "Control temperature carefully",
+      "Ensure proper water flow in condenser",
+      "Do not heat dry flask"
+    ],
+    "result": "Pure liquid is collected."
+  },
+  {
+    "type": "experiment",
+    "topic": "filtration",
+    "aim": "To separate insoluble solid from liquid.",
+    "apparatus": "Funnel, filter paper, beaker.",
+    "procedure": [
+      "Place filter paper in funnel",
+      "Pour mixture carefully",
+      "Collect filtrate",
+      "Solid remains as residue"
+    ],
+    "precautions": [
+      "Use correct filter paper",
+      "Do not overfill funnel"
+    ],
+    "result": "Solid and liquid are separated."
+  },
+  {
+    "type": "safety",
+    "topic": "lab safety",
+    "rules": [
+      "Wear lab coat",
+      "Wear safety goggles",
+      "Wear gloves",
+      "Do not taste chemicals",
+      "Do not smell chemicals directly",
+      "Use fume hood when required"
+    ]
+  },
+  
+{
+  "type": "greeting",
+  "topic": "hello",
+  "content": "Hello! 🧪 I am your Chemistry Lab Assistant. How can I help you today?"
+},
+{
+  "type": "greeting",
+  "topic": "hi",
+  "content": "Hi there! Ask me anything about chemistry experiments."
+},
+{
+  "type": "greeting",
+  "topic": "hey",
+  "content": "Hey! I can guide you through lab experiments step by step."
+},
+{
+  "type": "greeting",
+  "topic": "how are you",
+  "content": "I'm doing great! Ready to help you in the lab."
+},
+{
+  "type": "greeting",
+  "topic": "who are you",
+  "content": "I am an AI-powered Chemistry Lab Assistant."
+},
+{
+  "type": "definition",
+  "topic": "acid",
+  "content": "An acid is a substance that donates hydrogen ions (H+) in solution."
+},
+{
+  "type": "definition",
+  "topic": "base",
+  "content": "A base is a substance that accepts hydrogen ions or produces hydroxide ions (OH-)."
+},
+{
+  "type": "definition",
+  "topic": "salt",
+  "content": "Salt is a compound formed by reaction between acid and base."
+},
+{
+  "type": "definition",
+  "topic": "indicator",
+  "content": "An indicator is a substance that changes color at specific pH."
+},
+{
+  "type": "definition",
+  "topic": "buffer solution",
+  "content": "A buffer solution resists change in pH when acid or base is added."
+},
+{
+  "type": "definition",
+  "topic": "strong acid",
+  "content": "Strong acid completely ionizes in solution."
+},
+{
+  "type": "definition",
+  "topic": "weak acid",
+  "content": "Weak acid partially ionizes in solution."
+},
+{
+  "type": "definition",
+  "topic": "strong base",
+  "content": "Strong base completely ionizes in solution."
+},
+{
+  "type": "definition",
+  "topic": "weak base",
+  "content": "Weak base partially ionizes in solution."
+},
+{
+  "type": "definition",
+  "topic": "chemical reaction",
+  "content": "Chemical reaction is transformation of substances into new substances."
+},
+{
+  "type": "definition",
+  "topic": "reactant",
+  "content": "Reactant is a substance that participates in a chemical reaction."
+},
+{
+  "type": "definition",
+  "topic": "product",
+  "content": "Product is a substance formed during a chemical reaction."
+},
+{
+  "type": "definition",
+  "topic": "accuracy",
+  "content": "Accuracy is closeness of measured value to true value."
+},
+{
+  "type": "definition",
+  "topic": "precision",
+  "content": "Precision is closeness of repeated measurements to each other."
+},
+{
+  "type": "experiment",
+  "topic": "ph determination",
+  "aim": "To determine the pH value of given solution.",
+  "apparatus": "pH paper or pH meter.",
+  "procedure": [
+    "Take pH paper",
+    "Dip into solution",
+    "Observe color change",
+    "Compare with pH chart"
+  ],
+  "precautions": [
+    "Do not touch indicator area",
+    "Use clean glass rod"
+  ],
+  "result": "pH of solution is determined."
+},
+{
+  "type": "experiment",
+  "topic": "neutralization",
+  "aim": "To study reaction between acid and base.",
+  "theory": "Acid reacts with base to form salt and water.",
+  "procedure": [
+    "Take acid in flask",
+    "Add base slowly",
+    "Observe temperature change",
+    "Test final solution"
+  ],
+  "result": "Salt and water are formed."
+},
+{
+  "type": "safety",
+  "topic": "acid spill",
+  "rules": [
+    "Inform teacher immediately",
+    "Neutralize with baking soda",
+    "Wash area with plenty of water"
+  ]
+},
+{
+  "type": "student_question",
+  "topic": "why titration is important",
+  "content": "Titration helps determine unknown concentration accurately."
+},
+{
+  "type": "student_question",
+  "topic": "why do we use indicator",
+  "content": "Indicator helps detect end point by color change."
+},
+{
+  "type": "student_question",
+  "topic": "why do we rinse burette",
+  "content": "To avoid dilution and ensure accurate reading."
+},
+{
+  "type": "student_question",
+  "topic": "why do we rinse pipette",
+  "content": "To prevent contamination."
+},
+{
+  "type": "student_question",
+  "topic": "why is lab safety important",
+  "content": "Lab safety prevents accidents and injuries."
+},
+{
+  "type": "formula",
+  "topic": "dilution formula",
+  "content": "C1V1 = C2V2"
+},
+{
+  "type": "formula",
+  "topic": "molarity formula",
+  "content": "Molarity = moles of solute / volume in liters"
+},
+{
+  "type": "greeting",
+  "topic": "bye",
+  "content": "Goodbye! See you next time in the lab."
+},
+{
+  "type": "greeting",
+  "topic": "thanks",
+  "content": "You're welcome! 😊"
+}
+,
+{
+  "type": "greeting",
+  "topic": "good morning",
+  "content": "Good morning! 🌞 How can I help you in chemistry lab today?"
+},
+{
+  "type": "greeting",
+  "topic": "good evening",
+  "content": "Good evening! 🌙 Ready for some chemistry experiments?"
+},
+{
+  "type": "greeting",
+  "topic": "thank you",
+  "content": "You're welcome! 😊 Ask if you need any help."
+},
+{
+  "type": "definition",
+  "topic": "solution",
+  "content": "A solution is a homogeneous mixture of solute and solvent."
+},
+{
+  "type": "definition",
+  "topic": "solute",
+  "content": "Solute is the substance that gets dissolved."
+},
+{
+  "type": "definition",
+  "topic": "solvent",
+  "content": "Solvent is the substance that dissolves solute."
+},
+{
+  "type": "definition",
+  "topic": "concentration",
+  "content": "Concentration is the amount of solute in given quantity of solvent."
+},
+{
+  "type": "definition",
+  "topic": "dilution",
+  "content": "Dilution is reducing concentration by adding solvent."
+},
+{
+  "type": "definition",
+  "topic": "precipitate",
+  "content": "Precipitate is an insoluble solid formed during reaction."
+},
+{
+  "type": "definition",
+  "topic": "filtrate",
+  "content": "Filtrate is the liquid that passes through filter paper."
+},
+{
+  "type": "definition",
+  "topic": "residue",
+  "content": "Residue is the solid left on filter paper."
+},
+{
+  "type": "definition",
+  "topic": "boiling point",
+  "content": "Boiling point is temperature at which liquid converts to vapor."
+},
+{
+  "type": "definition",
+  "topic": "condensation",
+  "content": "Condensation is conversion of vapor into liquid."
+},
+{
+  "type": "definition",
+  "topic": "exothermic reaction",
+  "content": "Exothermic reaction releases heat."
+},
+{
+  "type": "definition",
+  "topic": "endothermic reaction",
+  "content": "Endothermic reaction absorbs heat."
+},
+{
+  "type": "definition",
+  "topic": "cation",
+  "content": "Cation is a positively charged ion."
+},
+{
+  "type": "definition",
+  "topic": "anion",
+  "content": "Anion is a negatively charged ion."
+},
+{
+  "type": "student_question",
+  "topic": "why do we use conical flask",
+  "content": "Conical flask allows proper mixing without spilling."
+},
+{
+  "type": "student_question",
+  "topic": "why do we use burette",
+  "content": "Burette is used to measure volume accurately during titration."
+},
+{
+  "type": "student_question",
+  "topic": "why do we use pipette",
+  "content": "Pipette is used to transfer fixed volume accurately."
+},
+{
+  "type": "student_question",
+  "topic": "why do we use volumetric flask",
+  "content": "Volumetric flask prepares exact volume solution."
+},
+{
+  "type": "student_question",
+  "topic": "why do we perform flame test",
+  "content": "Flame test helps identify metal ions."
+},
+{
+  "type": "student_question",
+  "topic": "why do we perform salt analysis",
+  "content": "Salt analysis identifies unknown salt."
+},
+{
+  "type": "student_question",
+  "topic": "why do we perform crystallization",
+  "content": "Crystallization purifies impure solids."
+},
+{
+  "type": "student_question",
+  "topic": "why do we perform distillation",
+  "content": "Distillation purifies liquids."
+},
+{
+  "type": "student_question",
+  "topic": "why do we perform filtration",
+  "content": "Filtration separates solid from liquid."
+},
+{
+  "type": "formula",
+  "topic": "titration formula",
+  "content": "M1V1 = M2V2"
+},
+{
+  "type": "formula",
+  "topic": "normality formula",
+  "content": "Normality = equivalents / volume in liters"
+},
+{
+  "type": "experiment",
+  "topic": "evaporation",
+  "aim": "To obtain dissolved solid from solution.",
+  "procedure": [
+    "Take solution in evaporating dish",
+    "Heat gently",
+    "Allow solvent to evaporate",
+    "Collect solid residue"
+  ],
+  "precautions": [
+    "Do not overheat",
+    "Use proper heating method"
+  ],
+  "result": "Solid is obtained from solution."
+},
+{
+  "type": "experiment",
+  "topic": "precipitation",
+  "aim": "To form insoluble solid from solution.",
+  "procedure": [
+    "Take two solutions",
+    "Mix together",
+    "Observe formation of precipitate"
+  ],
+  "result": "Precipitate is formed."
+},
+{
+  "type": "safety",
+  "topic": "chemical burn",
+  "rules": [
+    "Wash area immediately with water",
+    "Inform teacher",
+    "Seek medical help if needed"
+  ]
+},
+{
+  "type": "safety",
+  "topic": "fire in lab",
+  "rules": [
+    "Switch off burner",
+    "Use fire extinguisher",
+    "Inform teacher immediately"
+  ]
+},
+{
+  "type": "student_question",
+  "topic": "what is viva question",
+  "content": "Viva questions test understanding of experiment."
+},
+{
+  "type": "student_question",
+  "topic": "what questions are asked in titration viva",
+  "content": "Questions about aim, theory, indicator, endpoint, and formula."
+},
+{
+  "type": "student_question",
+  "topic": "what is difference between end point and equivalence point",
+  "content": "End point is color change point, equivalence point is exact neutralization."
+}
+]
